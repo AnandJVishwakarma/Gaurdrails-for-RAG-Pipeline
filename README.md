@@ -97,9 +97,3 @@ Here’s a high-level architecture for a RAG-based LLM system with guardrails:
 ## Contributing
 
 Contributions to enhance this guide are welcome! Feel free to submit issues or pull requests to add examples, improve clarity, or suggest tools and techniques.
-
----
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
